@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="chessApp.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="544"/>
+        <CursorPos X="107" Y="570"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="About"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="35" Y="20"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\..\..\..\Downloads\main.pas"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="85" Y="66"/>
+        <UsageCount Value="7"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="846"/>
+        <CursorPos X="34" Y="856"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="chessApp.lpi"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="50"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="189" Column="50" TopLine="178"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="187" Column="56" TopLine="177"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="191" Column="64" TopLine="178"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="199" Column="64" TopLine="184"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="224" TopLine="217"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="386" Column="16" TopLine="361"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="196" Column="30" TopLine="190"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="429" Column="30" TopLine="410"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="317" Column="18" TopLine="308"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="253" Column="48" TopLine="243"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="9" Column="20"/>
+      </Position11>
+      <Position12>
+        <Filename Value="about.pas"/>
+        <Caret Line="18" Column="60" TopLine="5"/>
+      </Position12>
+      <Position13>
+        <Filename Value="about.pas"/>
+        <Caret Line="6" Column="35"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="486" Column="48" TopLine="80"/>
+      </Position14>
+      <Position15>
+        <Filename Value="main.pas"/>
+        <Caret Line="493" Column="50" TopLine="185"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="205" Column="100" TopLine="187"/>
+      </Position16>
+      <Position17>
+        <Filename Value="main.pas"/>
+        <Caret Line="362" TopLine="342"/>
+      </Position17>
+      <Position18>
+        <Filename Value="main.pas"/>
+        <Caret Line="481" TopLine="241"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.pas"/>
+        <Caret Line="575" Column="9" TopLine="475"/>
+      </Position19>
+      <Position20>
+        <Filename Value="main.pas"/>
+        <Caret Line="565" Column="68" TopLine="499"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main.pas"/>
+        <Caret Line="377" TopLine="374"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.pas"/>
+        <Caret Line="563" Column="55" TopLine="555"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="287" Column="66" TopLine="276"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="286" Column="66" TopLine="275"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="419" Column="5" TopLine="409"/>
+      </Position25>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1" ActiveMode="default">
+        <Mode0 Name="default">
+          <local>
+            <CommandLineParams Value="-l en"/>
+            <LaunchingApplication PathPlusParams="C:\windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+          </local>
+        </Mode0>
+      </Modes>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

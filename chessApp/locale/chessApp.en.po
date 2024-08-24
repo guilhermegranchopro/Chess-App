@@ -1,0 +1,97 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.aboutitem.caption
+msgid "About"
+msgstr ""
+
+#: tform1.caption
+msgid "Chess - by GG Empire "
+msgstr ""
+
+#: tform1.exititem.caption
+msgid "Exit"
+msgstr ""
+
+#: tform1.fiveminitem.caption
+msgid "5 min"
+msgstr ""
+
+#: tform1.gameitem.caption
+msgid "Game"
+msgstr ""
+
+#: tform1.guilhermegranchoitem.caption
+msgctxt "tform1.guilhermegranchoitem.caption"
+msgid "Guilherme Grancho"
+msgstr ""
+
+#: tform1.helpitem.caption
+msgid "Help"
+msgstr ""
+
+#: tform1.mauriziomongeitem.caption
+msgid "Maurizio Monge"
+msgstr ""
+
+#: tform1.newitem.caption
+msgid "New"
+msgstr ""
+
+#: tform1.pointsditem.caption
+msgid "pointsDItem"
+msgstr ""
+
+#: tform1.pointslitem.caption
+msgid "pointsLItem"
+msgstr ""
+
+#: tform1.redblackitem.caption
+msgid "Red and Black"
+msgstr ""
+
+#: tform1.standarditem.caption
+msgid "Standard"
+msgstr ""
+
+#: tform1.stylesitem.caption
+msgid "Styles"
+msgstr ""
+
+#: tform1.tenminitem.caption
+msgid "10 min"
+msgstr ""
+
+#: tform1.timerditem.caption
+msgid "timerDItem"
+msgstr ""
+
+#: tform1.timerlitem.caption
+msgid "timerLItem"
+msgstr ""
+
+#: tform1.undoitem.caption
+msgid "Undo"
+msgstr ""
+
+#: tform1.unlimiteditem.caption
+msgid "Unlimited"
+msgstr ""
+
+#: tform2.caption
+msgid "Chess - About"
+msgstr ""
+
+#: tform2.label1.caption
+msgid "Chess by GG Empire"
+msgstr ""
+
+#: tform2.label2.caption
+msgid "Version 2.3"
+msgstr ""
+
+#: tform2.label3.caption
+msgctxt "tform2.label3.caption"
+msgid "Guilherme Grancho"
+msgstr ""
+

@@ -1,0 +1,21 @@
+{"version":1,"strings":[
+{"hash":257480624,"name":"tform1.caption","sourcebytes":[67,104,101,115,115,32,45,32,98,121,32,71,71,32,69,109,112,105,114,101,32],"value":"Chess - by GG Empire "},
+{"hash":186149613,"name":"tform1.pointslitem.caption","sourcebytes":[112,111,105,110,116,115,76,73,116,101,109],"value":"pointsLItem"},
+{"hash":185625325,"name":"tform1.pointsditem.caption","sourcebytes":[112,111,105,110,116,115,68,73,116,101,109],"value":"pointsDItem"},
+{"hash":208714381,"name":"tform1.timerditem.caption","sourcebytes":[116,105,109,101,114,68,73,116,101,109],"value":"timerDItem"},
+{"hash":209238669,"name":"tform1.timerlitem.caption","sourcebytes":[116,105,109,101,114,76,73,116,101,109],"value":"timerLItem"},
+{"hash":317493,"name":"tform1.gameitem.caption","sourcebytes":[71,97,109,101],"value":"Game"},
+{"hash":378031,"name":"tform1.undoitem.caption","sourcebytes":[85,110,100,111],"value":"Undo"},
+{"hash":21703,"name":"tform1.newitem.caption","sourcebytes":[78,101,119],"value":"New"},
+{"hash":50616036,"name":"tform1.unlimiteditem.caption","sourcebytes":[85,110,108,105,109,105,116,101,100],"value":"Unlimited"},
+{"hash":3634174,"name":"tform1.fiveminitem.caption","sourcebytes":[53,32,109,105,110],"value":"5 min"},
+{"hash":54686718,"name":"tform1.tenminitem.caption","sourcebytes":[49,48,32,109,105,110],"value":"10 min"},
+{"hash":315140,"name":"tform1.exititem.caption","sourcebytes":[69,120,105,116],"value":"Exit"},
+{"hash":95158979,"name":"tform1.stylesitem.caption","sourcebytes":[83,116,121,108,101,115],"value":"Styles"},
+{"hash":176467236,"name":"tform1.standarditem.caption","sourcebytes":[83,116,97,110,100,97,114,100],"value":"Standard"},
+{"hash":251613067,"name":"tform1.redblackitem.caption","sourcebytes":[82,101,100,32,97,110,100,32,66,108,97,99,107],"value":"Red and Black"},
+{"hash":161173765,"name":"tform1.mauriziomongeitem.caption","sourcebytes":[77,97,117,114,105,122,105,111,32,77,111,110,103,101],"value":"Maurizio Monge"},
+{"hash":114319,"name":"tform1.guilhermegranchoitem.caption","sourcebytes":[71,117,105,108,104,101,114,109,101,32,71,114,97,110,99,104,111],"value":"Guilherme Grancho"},
+{"hash":322608,"name":"tform1.helpitem.caption","sourcebytes":[72,101,108,112],"value":"Help"},
+{"hash":4691652,"name":"tform1.aboutitem.caption","sourcebytes":[65,98,111,117,116],"value":"About"}
+]}

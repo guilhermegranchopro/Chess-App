@@ -1,0 +1,185 @@
+object Form1: TForm1
+  Left = 304
+  Height = 486
+  Top = 68
+  Width = 561
+  Caption = 'Chess - by GG Empire '
+  ClientHeight = 461
+  ClientWidth = 561
+  DesignTimePPI = 120
+  Menu = MainMenu1
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '2.0.10.0'
+  object PaintBox1: TPaintBox
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 461
+    Top = 0
+    Width = 481
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    BorderSpacing.Right = 80
+    OnMouseDown = PaintBox1MouseDown
+    OnPaint = PaintBox1Paint
+  end
+  object pointsLItem: TLabel
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 444
+    Height = 19
+    Top = 412
+    Width = 97
+    Anchors = [akRight, akBottom]
+    BorderSpacing.Right = 20
+    BorderSpacing.Bottom = 30
+    Caption = 'pointsLItem'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = '@HP Simplified Hans'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object pointsDItem: TLabel
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Side = asrBottom
+    Left = 441
+    Height = 19
+    Top = 30
+    Width = 100
+    Anchors = [akTop, akRight]
+    BorderSpacing.Top = 30
+    BorderSpacing.Right = 20
+    Caption = 'pointsDItem'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = '@HP Simplified Hans'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object timerDItem: TLabel
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Side = asrBottom
+    Left = 418
+    Height = 26
+    Top = 50
+    Width = 123
+    Anchors = [akTop, akRight]
+    BorderSpacing.Top = 50
+    BorderSpacing.Right = 20
+    Caption = 'timerDItem'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -23
+    Font.Name = 'Small Fonts'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object timerLItem: TLabel
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 420
+    Height = 26
+    Top = 385
+    Width = 121
+    Anchors = [akRight, akBottom]
+    BorderSpacing.Top = 50
+    BorderSpacing.Right = 20
+    BorderSpacing.Bottom = 50
+    Caption = 'timerLItem'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -23
+    Font.Name = 'Small Fonts'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object MainMenu1: TMainMenu
+    Left = 87
+    Top = 92
+    object GameItem: TMenuItem
+      Caption = 'Game'
+      object undoItem: TMenuItem
+        Caption = 'Undo'
+        OnClick = undoItemClick
+      end
+      object NewItem: TMenuItem
+        Caption = 'New'
+        object unlimitedItem: TMenuItem
+          Caption = 'Unlimited'
+          OnClick = unlimitedItemClick
+        end
+        object fiveMinItem: TMenuItem
+          Caption = '5 min'
+          OnClick = fiveMinItemClick
+        end
+        object tenMinItem: TMenuItem
+          Caption = '10 min'
+          OnClick = tenMinItemClick
+        end
+      end
+      object ExitItem: TMenuItem
+        Caption = 'Exit'
+        OnClick = ExitItemClick
+      end
+    end
+    object StylesItem: TMenuItem
+      Caption = 'Styles'
+      object StandardItem: TMenuItem
+        Caption = 'Standard'
+        OnClick = StandardItemClick
+      end
+      object redBlackItem: TMenuItem
+        Caption = 'Red and Black'
+        OnClick = redBlackItemClick
+      end
+      object maurizioMongeItem: TMenuItem
+        Caption = 'Maurizio Monge'
+        OnClick = maurizioMongeItemClick
+      end
+      object guilhermeGranchoItem: TMenuItem
+        Caption = 'Guilherme Grancho'
+        OnClick = guilhermeGranchoItemClick
+      end
+    end
+    object HelpItem: TMenuItem
+      Caption = 'Help'
+      object AboutItem: TMenuItem
+        Caption = 'About'
+        OnClick = AboutItemClick
+      end
+    end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 191
+    Top = 72
+  end
+end

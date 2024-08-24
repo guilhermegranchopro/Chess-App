@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: pt\n"
+
+#: tform1.aboutitem.caption
+msgid "About"
+msgstr "Sobre"
+
+#: tform1.caption
+msgid "Chess - by GG Empire "
+msgstr "Xadrez - por GG Empire "
+
+#: tform1.exititem.caption
+msgid "Exit"
+msgstr "Sair"
+
+#: tform1.fiveminitem.caption
+msgid "5 min"
+msgstr "5 min"
+
+#: tform1.gameitem.caption
+msgid "Game"
+msgstr "Jogo"
+
+#: tform1.guilhermegranchoitem.caption
+#, fuzzy
+msgctxt "tform1.guilhermegranchoitem.caption"
+msgid "Guilherme Grancho"
+msgstr "Guilherme Grancho"
+
+#: tform1.helpitem.caption
+msgid "Help"
+msgstr "Ajuda"
+
+#: tform1.mauriziomongeitem.caption
+msgid "Maurizio Monge"
+msgstr "Maurizio Monge"
+
+#: tform1.newitem.caption
+msgid "New"
+msgstr "Novo"
+
+#: tform1.pointsditem.caption
+msgid "pointsDItem"
+msgstr "pointsDItem"
+
+#: tform1.pointslitem.caption
+msgid "pointsLItem"
+msgstr "pointsLItem"
+
+#: tform1.redblackitem.caption
+msgid "Red and Black"
+msgstr "Vermelho e Preto"
+
+#: tform1.standarditem.caption
+msgid "Standard"
+msgstr "Padrão"
+
+#: tform1.stylesitem.caption
+msgid "Styles"
+msgstr "Estilos"
+
+#: tform1.tenminitem.caption
+msgid "10 min"
+msgstr "10 min"
+
+#: tform1.timerditem.caption
+msgid "timerDItem"
+msgstr "timerDItem"
+
+#: tform1.timerlitem.caption
+msgid "timerLItem"
+msgstr "timerLItem"
+
+#: tform1.undoitem.caption
+msgid "Undo"
+msgstr "Desfazer"
+
+#: tform1.unlimiteditem.caption
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: tform2.caption
+msgid "Chess - About"
+msgstr "Xadrez - Sobre"
+
+#: tform2.label1.caption
+msgid "Chess by GG Empire"
+msgstr "Xadrez por GG Empire"
+
+#: tform2.label2.caption
+msgid "Version 2.3"
+msgstr "Versão 2.3"
+
+#: tform2.label3.caption
+msgctxt "tform2.label3.caption"
+msgid "Guilherme Grancho"
+msgstr "Guilherme Grancho"
+
